@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "_attachments",
+  "showUnsupportedFiles": false,
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "readableLineLength": true
+}
